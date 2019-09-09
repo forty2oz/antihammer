@@ -1,2 +1,2 @@
 # antihammer
-AntiHammer Doscord Bot
+AntiHammer Discord Bot
